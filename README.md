@@ -42,8 +42,16 @@ Additionally, a simple **Gradio web interface** allows users to upload their own
 
 ---
 
-## 📥 Clone the Repository
+## 2. 📥 Clone the Repository
 To get a local copy of this project on your system, run:
 ```bash
 git clone https://github.com/your-username/eda-project.git
 cd eda-project
+---
+
+## 3. 📦 Install Dependencies
+Install the required Python libraries:
+```bash
+pip install -r requirements.txt
+
+
