@@ -31,24 +31,6 @@ Additionally, a simple **Gradio web interface** allows users to upload their own
 
 ---
 
-## ⚙️ Setup and Installation
-
-### 1. Prerequisites
-- Python 3.8+ installed  
-- **Ollama** installed and running on your system  
-- Pull the Mistral model with:
-  ```bash
-  ollama pull mistral
-
----
-
-## 2. 📥 Clone the Repository
-To get a local copy of this project on your system, run:
-```bash
-git clone https://github.com/your-username/eda-project.git
-cd eda-project
----
-
 
 
 
