@@ -49,9 +49,7 @@ git clone https://github.com/your-username/eda-project.git
 cd eda-project
 ---
 
-## 3. 📦 Install Dependencies
-Install the required Python libraries:
-```bash
-pip install -r requirements.txt
+
+
 
 
