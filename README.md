@@ -39,3 +39,11 @@ Additionally, a simple **Gradio web interface** allows users to upload their own
 - Pull the Mistral model with:
   ```bash
   ollama pull mistral
+
+---
+
+## 📥 Clone the Repository
+To get a local copy of this project on your system, run:
+```bash
+git clone https://github.com/your-username/eda-project.git
+cd eda-project
