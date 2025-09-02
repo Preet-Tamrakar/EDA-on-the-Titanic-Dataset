@@ -1,4 +1,4 @@
-# AI-Powered Exploratory Data Analysis (EDA) Project
+# EDA on the Titanic Dataset
 
 This project demonstrates how to perform **Exploratory Data Analysis (EDA)** using Python.  
 It goes beyond traditional EDA by integrating a **local Large Language Model (LLM)** via **Ollama (Mistral)** to generate automated analytical insights.  
